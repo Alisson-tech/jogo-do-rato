@@ -1,3 +1,8 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Alisson-tech/jogo-do-rato)
+![GitHub](https://img.shields.io/github/license/Alisson-tech/jogo-do-rato)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alisson-tech/jogo-do-rato)
+
+
 # :mouse: Jogo do Rato :mouse:
 
 ## Introdução 
