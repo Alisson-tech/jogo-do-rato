@@ -1,0 +1,8 @@
+while ((obtem_valor(linha_atual+1, coluna_atual) != "p")  ||
+                        (obtem_valor(linha_atual - 1, coluna_atual) != "p") ||
+                        (obtem_valor(linha_atual, coluna_atual + 1) != "p") ||
+                        (obtem_valor(linha_atual, coluna_atual - 1) != "p") ||
+                        (obtem_valor(linha_atual + 1, coluna_atual + 1) != "p") ||
+                        (obtem_valor(linha_atual - 1, coluna_atual + 1) != "p") ||
+                        (obtem_valor(linha_atual - 1, coluna_atual - 1) != "p") || 
+                        (obtem_valor(linha_atual+1, coluna_atual -1) != "p"));

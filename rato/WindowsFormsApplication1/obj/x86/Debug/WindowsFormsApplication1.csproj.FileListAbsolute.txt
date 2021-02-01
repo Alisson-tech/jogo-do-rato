@@ -1,0 +1,34 @@
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab2a\Downloads\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\victo\Downloads\rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
