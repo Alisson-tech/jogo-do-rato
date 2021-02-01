@@ -395,7 +395,7 @@ namespace WindowsFormsApplication1
                 case 's':
                     if (obtem_valor(linha_atual + 1, coluna_atual) != "p")
                     {
-                        // this.matriz[this.rato.obtem_linhas(), this.rato.obtem_colunas()] = "";
+                        //this.matriz[this.rato.obtem_linhas(), this.rato.obtem_colunas()] = "";
                         this.rato.define_linhas(linha_atual + 1);
                         this.matriz[this.rato.obtem_linhas(), this.rato.obtem_colunas()] = "r";
                     }

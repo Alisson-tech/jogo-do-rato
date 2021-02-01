@@ -32,3 +32,12 @@ C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplica
 C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\Pichau\Documents\pcAntigo\programas\c#\rato - Copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Pichau\Documents\Projetos\Jogo-Do-Rato\rato\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

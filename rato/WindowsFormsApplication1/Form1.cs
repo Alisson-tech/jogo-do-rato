@@ -170,30 +170,6 @@ namespace WindowsFormsApplication1
             d1.ClearSelection();
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Labirinto.movimenta_rato('w');
-            desenhar_labirinto();
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            Labirinto.movimenta_rato('d');
-            desenhar_labirinto();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            Labirinto.movimenta_rato('a');
-            desenhar_labirinto();
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Labirinto.movimenta_rato('s');
-            desenhar_labirinto();
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             double temp;
